@@ -2,8 +2,8 @@
 /**
  *  Descripción de un estudiante
  * 
- * @author - Marcelino Penide
- * @version Version2
+ * @author - Jonathan Del Arco
+ * @version Version3
  */
 public class Estudiante
 {
