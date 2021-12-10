@@ -2,13 +2,14 @@
 /**
  *  Descripción de un estudiante
  * 
- * @author - Marcelino Penide
+ * @author - Ricardo Morales
  * @version Version2
  */
 public class Estudiante
 {
     private String nombre;
     private int nota;
+    
      
 
     /**
@@ -17,6 +18,8 @@ public class Estudiante
     public Estudiante(String queNombre, int queNota)    {
         nombre = queNombre;
         nota = queNota;
+        
+        
          
     }
 
