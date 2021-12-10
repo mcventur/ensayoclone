@@ -2,7 +2,7 @@
 /**
  *  Descripción de un estudiante
  * 
- * @author - Marcelino Penide
+ * @author - Antonio Aguilera
  * @version Version2
  */
 public class Estudiante
