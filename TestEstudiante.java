@@ -21,6 +21,9 @@ public class TestEstudiante
         Estudiante e4 = new Estudiante("Marce", 40);
         e4.printEstudiante();        
         
+        Estudiante e5 = new Estudiante("Estudiante inventado", 17);
+        e5.printEstudiante();               
+        
         
 
     }
